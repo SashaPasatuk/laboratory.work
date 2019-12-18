@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Лаб._2
 {
-    class Rectangle : Figure, IPrint
+    public class Rectangle : Figure, IPrint
     {
         public Rectangle(double a, double b)
         {

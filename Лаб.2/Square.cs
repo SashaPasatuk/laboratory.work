@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Лаб._2
 {
-    class Square : Rectangle, IPrint
+    public class Square : Rectangle, IPrint
     {
         public double leigth { get; set; }
         public Square(double a)

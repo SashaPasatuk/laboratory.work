@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Лаб._2
+namespace lab3
 {
-    public interface IPrint
+    public interface IMatrixCheckEmpty<T>
     {
-        void Print();
+        T getEmptyElement();
+        bool checkEmptyElement(T element);
     }
 }

@@ -6,9 +6,32 @@ using System.Threading.Tasks;
 
 namespace Лаб._2
 {
-    abstract class Figure
+    public abstract class Figure : IComparable
     {
-        protected double Area;
+        public string Type
+        {
+            get
+            {
+                return this._Type;
+            }
+            protected set
+            {
+                this._Type = value;
+            }
+        }
+        string _Type;
+        public double Area;
         public abstract double area();
+        public override string ToString()
+        {
+            return this.Type + "площадью" + this.area().ToString();
+        }
+        public int CompareTo(object obj)
+        {
+            Figure p = (Figure)obj;
+            if (this.area() < p.area()) return -1;
+            else if (this.area() == p.area()) return 0;
+            else return 1;
+        }
     }
 }

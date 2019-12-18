@@ -1,0 +1,8 @@
+C:\Pasatuk\Лаб.1\lab3\bin\Debug\lab3.exe.config
+C:\Pasatuk\Лаб.1\lab3\bin\Debug\lab3.exe
+C:\Pasatuk\Лаб.1\lab3\bin\Debug\lab3.pdb
+C:\Pasatuk\Лаб.1\lab3\bin\Debug\Лаб.2.exe
+C:\Pasatuk\Лаб.1\lab3\bin\Debug\Лаб.2.pdb
+C:\Pasatuk\Лаб.1\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Pasatuk\Лаб.1\lab3\obj\Debug\lab3.exe
+C:\Pasatuk\Лаб.1\lab3\obj\Debug\lab3.pdb

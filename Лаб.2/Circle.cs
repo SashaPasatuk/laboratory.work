@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Лаб._2
 {
-    class Circle : Figure, IPrint
+    public class Circle : Figure, IPrint
     {
         public Circle(double a)
         {
