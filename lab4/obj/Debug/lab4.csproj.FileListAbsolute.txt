@@ -1,0 +1,9 @@
+C:\Pasatuk\Лаб.1\lab4\bin\Debug\lab4.exe.config
+C:\Pasatuk\Лаб.1\lab4\bin\Debug\lab4.exe
+C:\Pasatuk\Лаб.1\lab4\bin\Debug\lab4.pdb
+C:\Pasatuk\Лаб.1\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Pasatuk\Лаб.1\lab4\obj\Debug\lab4.Form1.resources
+C:\Pasatuk\Лаб.1\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Pasatuk\Лаб.1\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Pasatuk\Лаб.1\lab4\obj\Debug\lab4.exe
+C:\Pasatuk\Лаб.1\lab4\obj\Debug\lab4.pdb

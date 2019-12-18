@@ -35,7 +35,7 @@ namespace Лаб._2
         }
         public override string ToString()
         {
-            return "Фигура прямоугольник: " + "длина - " + leight.ToString() + ", шина - " + width.ToString() + ", площадь - " + area().ToString();
+            return "Фигура прямоугольник: " + "длина - " + leight.ToString() + ", ширина - " + width.ToString() + ", площадь - " + area().ToString();
         }
         public void Print()
         {
