@@ -113,13 +113,13 @@ namespace lab4
                 }
                 t.Stop();
                 this.textBox4.Text = t.Elapsed.ToString();
-                this.listBox1.BeginUpdate();
-                this.listBox1.Items.Clear();
+                listBox1.BeginUpdate();
+                listBox1.Items.Clear();
                 foreach (string str in tempList)
                 {
-                    this.listBox1.Items.Add(str);
+                    listBox1.Items.Add(str);
                 }
-                this.listBox1.EndUpdate();
+                listBox1.EndUpdate();
             }
             else
             {
