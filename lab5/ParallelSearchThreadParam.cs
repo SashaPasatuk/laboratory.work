@@ -8,7 +8,7 @@ using System.IO;
 
 namespace lab5
 {
-    class ParallelSearchThreadParam
+    public class ParallelSearchThreadParam
     {
         public List<string> tempList { get; set; }
         public string wordPattern { get; set; }

@@ -17,7 +17,7 @@ namespace lab5
             this.Max = pmax;
         }
     }
-    class SubArrays
+    public class SubArrays
     {
         public static List<MinMax> DivideSubArrays(int beginIndex, int endIndex, int subArraysCount)
         {

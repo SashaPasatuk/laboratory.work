@@ -1,0 +1,11 @@
+C:\Pasatuk\Лаб.1\DZ\bin\Debug\DZ.exe.config
+C:\Pasatuk\Лаб.1\DZ\obj\Debug\DZ.csprojResolveAssemblyReference.cache
+C:\Pasatuk\Лаб.1\DZ\obj\Debug\DZ.Form1.resources
+C:\Pasatuk\Лаб.1\DZ\obj\Debug\DZ.Properties.Resources.resources
+C:\Pasatuk\Лаб.1\DZ\obj\Debug\DZ.csproj.GenerateResource.Cache
+C:\Pasatuk\Лаб.1\DZ\bin\Debug\DZ.exe
+C:\Pasatuk\Лаб.1\DZ\bin\Debug\DZ.pdb
+C:\Pasatuk\Лаб.1\DZ\bin\Debug\lab5.exe
+C:\Pasatuk\Лаб.1\DZ\bin\Debug\lab5.pdb
+C:\Pasatuk\Лаб.1\DZ\obj\Debug\DZ.exe
+C:\Pasatuk\Лаб.1\DZ\obj\Debug\DZ.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab5
 {
-    class EditDistance
+    public class EditDistance
     {
         public static int Distance(string str1Param, string str2Param)
         {
