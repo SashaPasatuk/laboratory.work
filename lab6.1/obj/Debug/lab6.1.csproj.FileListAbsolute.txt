@@ -1,0 +1,5 @@
+C:\Pasatuk\Лаб.1\lab6.1\bin\Debug\lab6.1.exe.config
+C:\Pasatuk\Лаб.1\lab6.1\bin\Debug\lab6.1.exe
+C:\Pasatuk\Лаб.1\lab6.1\bin\Debug\lab6.1.pdb
+C:\Pasatuk\Лаб.1\lab6.1\obj\Debug\lab6.1.exe
+C:\Pasatuk\Лаб.1\lab6.1\obj\Debug\lab6.1.pdb
